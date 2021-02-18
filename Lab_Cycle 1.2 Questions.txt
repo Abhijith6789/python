@@ -1,0 +1,22 @@
+DEPARTMENT OF COMPUTER APPLICATIONS
+20MCA131 PROGRAMMING LAB
+
+CYCLE 1.2
+
+NO OF QUESTIONS: 5
+EXPECTED DATE OF COMPLETION: 30/01/2020
+
+QUESTIONS:
+1) Count the occurrences of each word in a line of text.
+2) Prompt the user for a list of integers. For all values greater than 100, store ‘over’ instead.
+3) Store a list of first names. Count the occurrences of ‘a’ within the list.
+4) Enter 2 lists of integers. Check
+(a) Whether list are of same length
+(b) Whether list sums to same value
+(c) Whether any value occurs in both
+5) Get a string from an input string where all occurrences of first character replaced with ‘$’,
+except first character. [eg: onion -&gt; oni$n]
+
+Expected learning level:
+*The basic concepts of loops and control statements.
+* The concept of list comprehensions and Dictionary.

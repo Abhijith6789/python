@@ -1,0 +1,28 @@
+DEPARTMENT OF COMPUTER APPLICATIONS
+20MCA131 PROGRAMMING LAB
+
+CYCLE 1.3
+
+NO OF QUESTIONS: 12
+EXPECTED DATE OF COMPLETION: 04/02/2021
+
+QUESTIONS:
+1. Create a string from given string where first and last characters exchanged. [eg: python -
+&gt; nythop]
+2. Accept the radius from user and find area of circle.
+3. Find biggest of 3 numbers entered.
+4. Accept a file name from user and print extension of that.
+5. Create a list of colors from comma-separated color names entered by user. Display first
+and last colors.
+6. Accept an integer n and compute n+nn+nnn.
+7. Print out all colors from color-list1 not contained in color-list2.
+8. Create a single string separated with space from two strings by swapping the character at
+position 1.
+9. Sort dictionary in ascending and descending order.
+10. Merge two dictionaries.
+11. Find gcd of 2 numbers.
+12. From a list of integers, create a list removing even numbers
+
+Expected learning level:
+*The basic concepts of loops and control statements.
+* The concept of list comprehensions and Dictionary.
